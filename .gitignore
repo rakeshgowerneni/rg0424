@@ -1,0 +1,9 @@
+# Compiled class files
+target/
+
+# IDE files
+.vscode/
+*.iml
+
+# Compiled Java bytecode
+*.class
